@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624292081686",
+    "firebase_url": "https://um-clone-app.firebaseio.com",
+    "project_id": "um-clone-app",
+    "storage_bucket": "um-clone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624292081686:android:d6851fd4b5988c8985c537",
+        "android_client_info": {
+          "package_name": "com.example.unigramcloneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624292081686-pu16e9o4h3bqpa14k18afcvpinuhoilj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYI6L-8eRosnbuEY0xdy08BGspNFNRQhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624292081686-pu16e9o4h3bqpa14k18afcvpinuhoilj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
